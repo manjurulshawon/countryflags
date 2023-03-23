@@ -5,7 +5,7 @@
 }
 .country{
     border: 2px solid goldenrod;
-    background-color: grey;
+    background-color: aquamarine;
     border-radius: 15px ;
     padding: 20px;
 }
@@ -17,3 +17,7 @@
     display: flex;
 }
    
+.header{
+   position: relative;
+   left: 40%;
+}
